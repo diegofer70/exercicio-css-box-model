@@ -20,12 +20,17 @@ header p {
     font-weight: bold;
 }
 
+section {
+    text-align: center;
+}
+
 img {
     width: 400px;
 }
 
 h2 {
     font-size: 48px;
+    margin: 12px 0;
 }
 
 button.botao-padrao {
