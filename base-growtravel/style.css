@@ -9,9 +9,11 @@
 
 header {
     background-color: #001F3D;
+    padding: 6px;
 }
 
 header p {
     display: inline-flex;
     margin: 24px;
+    text-transform: uppercase;
 }
