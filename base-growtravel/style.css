@@ -13,4 +13,5 @@ header {
 
 header p {
     display: inline-flex;
+    margin: 24px;
 }
