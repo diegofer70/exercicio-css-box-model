@@ -27,3 +27,11 @@ img {
 h2 {
     font-size: 48px;
 }
+
+button.botao-padrao {
+    padding: 15px 30px;
+    border-radius: 20px;
+    border: 1px solid #3b63b6;
+    background-color: #3b63b6;
+    color: #ffffff;
+}
